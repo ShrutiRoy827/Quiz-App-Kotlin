@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz_app">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="e_g_name">e.g. Shruti</string>
+    <string name="start">Start</string>
+    <string name="quiz_image">quiz image</string>
+    <string name="_0_10">0/10</string>
+    <string name="submit">SUBMIT</string>
+</resources>
